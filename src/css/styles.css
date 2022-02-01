@@ -37,3 +37,7 @@
     url("../../public/font/SpoqaHanSansNeo-Bold.otf") format('otf');
   font-weight: 300;
 }
+
+body {
+  font-family: "Spoqa Han Sans Neo";
+}
