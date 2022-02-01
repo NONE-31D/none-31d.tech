@@ -16,8 +16,8 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to <Link href="/">
-          <a>none-31d.tech</a>
-  </Link>
+            <a>none-31d.tech</a>
+          </Link>
         </h1>
 
         <p className={styles.description}>
